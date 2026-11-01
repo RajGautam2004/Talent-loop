@@ -1,6 +1,7 @@
 # TalentLoop — Agentic Hiring Assistant
 
 Live Demo : https://talentloop-rouge.vercel.app/login
+Backend : https://talentloop-api.onrender.com/docs
 > **Ethical AI & Responsible Innovation** — RizeOS Hackathon 2026
 
 TalentLoop is an agentic hiring assistant that parses job descriptions, sources candidates from consent-safe channels, researches evidence on public pages, computes explainable fit scores against a transparent rubric, drafts personalized outreach, triages inbound replies, and issues role-relative feedback reports to candidates.
